@@ -13,7 +13,6 @@
           <img src="https://komarev.com/ghpvc/?username=k-g-prajwal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
         </a>
   
-        </a>
       </p>
     </td>
     <td width="30%" align="center">
