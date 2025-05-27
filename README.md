@@ -8,14 +8,15 @@
           🌐 Full-Stack Web Developer | Building interactive and data-driven apps.<br>
           📊 Turning data into insights, and ideas into code.<br>
       </p>
+      </p>
       <p align="center" style="margin-top: 5px;">
-        <>
-          <
-        <
-        <
-          <
-        <
-      <
+        <a href="">
+          <img src="" />
+        </a>
+        <a href="">
+          <img src=""/>
+        </a>
+      </p>
     </td>
     <td width="30%" align="center">
       <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
@@ -25,6 +26,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
