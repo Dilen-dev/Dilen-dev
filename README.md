@@ -9,10 +9,12 @@
           📊 Turning data into insights, and ideas into code
       </p>
       <p align="center" style="margin-top: 5px;">
-        <a href="https://github.com/k-g-prajwal">
-          <img src="https://komarev.com/ghpvc/?username=k-g-prajwal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+        <>
+          < />
         </a>
-  
+        <>
+          < />
+        </a>
       </p>
     </td>
     <td width="30%" align="center">
