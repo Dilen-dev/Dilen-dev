@@ -3,19 +3,19 @@
     <td width="70%" valign="top">
       <h1 align="left" style="margin-bottom: 5px;">Lenyolosa 🌟</h1>
       <p style="margin: 0;">
-          🔍 Aspiring Data Analyst / Data Scientist
-          🤖 Passionate about Machine Learning, Deep Learning & Neural Networks
-          🌐 Full-Stack Web Developer | Building interactive and data-driven apps
-          📊 Turning data into insights, and ideas into code
+          🔍 Aspiring Data Analyst / Data Scientist.<br>
+          🤖 Passionate about Machine Learning, Deep Learning & Neural Networks.<br>
+          🌐 Full-Stack Web Developer | Building interactive and data-driven apps.<br>
+          📊 Turning data into insights, and ideas into code.<br>
       </p>
       <p align="center" style="margin-top: 5px;">
         <>
-          < />
-        </a>
-        <>
-          < />
-        </a>
-      </p>
+          <
+        <
+        <
+          <
+        <
+      <
     </td>
     <td width="30%" align="center">
       <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
