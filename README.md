@@ -1,7 +1,31 @@
-## Hi, I am Lenyolosa 🌟
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h1 align="left" style="margin-bottom: 5px;">Lenyolosa 🌟</h1>
+      <p style="margin: 0;">
+        🔹 Passionate about <b>building scalable data pipeline ETL solutions, data warehousing</b> & <b>cloud architectures</b>.<br>
+        🔹 Currently diving deeper into <b>Open-source, Big Data, Cloud, Gen AI</b> & <b>GoLang</b>.<br>
+        🔹🧠 Information systems student at National University of Lesotho<br>
+        🔹 Love <b>Coding, Building Scalable+Resilient Distributed Software Systems</b> & <b>AI</b>.
+      </p>
+      <p align="center" style="margin-top: 5px;">
+        <a href="https://github.com/k-g-prajwal">
+          <img src="https://komarev.com/ghpvc/?username=k-g-prajwal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+        </a>
+        <a href="https://github.com/k-g-prajwal?tab=followers">
+          <img src="https://img.shields.io/github/followers/k-g-prajwal?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+        </a>
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
+           height="200px" width="280px" 
+           alt="cool gif" 
+           style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-🧠 Information systems student at National University of Lesotho<br>
-👨‍💻 I develop interactive web-based applications<br>
 
 
 # 💻 Tech Stack:
