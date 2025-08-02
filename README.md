@@ -3,7 +3,7 @@
     <td width="70%" valign="top">
       <h1 align="left" style="margin-bottom: 5px;">Lenyolosa 🌟</h1>
       <p style="margin: 0;">
-          🔍 Aspiring Data Analyst / Data Scientist.<br>
+          🔍 Aspiring Data Analyst / Data Scientist / Data Engineer.<br>
           🤖 Passionate about Machine Learning, Deep Learning & Neural Networks.<br>
           🌐 Full-Stack Web Developer | Building interactive and data-driven apps.<br>
           📊 Turning data into insights, and ideas into code.<br>
