@@ -10,12 +10,6 @@
       </p>
       </p>
       <p align="center" style="margin-top: 5px;">
-        <a href="">
-          <img src="" />
-        </a>
-        <a href="">
-          <img src=""/>
-        </a>
       </p>
     </td>
     <td width="30%" align="center">
