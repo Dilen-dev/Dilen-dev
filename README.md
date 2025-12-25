@@ -31,6 +31,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Dilen-dev&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilen-dev&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilen-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dilen-dev&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
